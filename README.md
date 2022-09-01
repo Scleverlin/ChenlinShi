@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChenlinShi.
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning computer architecture.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 💞️
+- 📫 How to reach me ... shi@hpc.is.uec.ac.jp
 
 <!---
 ChenlinShi/ChenlinShi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
