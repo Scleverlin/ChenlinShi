@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning computer architecture.
 - 💞️
-- 📫 shi@hpc.is.uec.ac.jp
+- 📫 chenlins@acm.org
 
 <!---
 ChenlinShi/ChenlinShi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
